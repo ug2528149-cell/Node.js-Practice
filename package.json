@@ -1,0 +1,17 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "Node.js crash course code",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "Node.js Practice"
+  },
+  "license": "MIT",
+  "author": "Prince",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
